@@ -1,0 +1,8 @@
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\ABDMantenimiento\bin\Debug\ABDMantenimiento.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\ABDMantenimiento\bin\Debug\ABDMantenimiento.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\ABDMantenimiento\bin\Debug\ABDMantenimiento.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\ABDMantenimiento\obj\Debug\ABDMantenimiento.Resources.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\ABDMantenimiento\obj\Debug\ABDMantenimiento.vbproj.GenerateResource.Cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\ABDMantenimiento\obj\Debug\ABDMantenimiento.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\ABDMantenimiento\obj\Debug\ABDMantenimiento.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\ABDMantenimiento\obj\Debug\ABDMantenimiento.pdb

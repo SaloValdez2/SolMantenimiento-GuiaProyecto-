@@ -1,0 +1,32 @@
+--PROCEDIMEINTOS ALMACENADOS "INSERTAR"
+	create proc usp_i_producto
+	@codigo char (3),
+	@descripcion varchar (50)
+	as
+		insert into Producto (codigo,descripcion)
+		values (@codigo,@descripcion)
+		select max(id_producto) from Producto
+--PROCEDIMEINTOS ALMACENADOS "MODIFICAR"
+	create proc usp_s_producto
+	as
+	select
+		id_producto,
+		codigo,
+		descripcion
+	from Producto
+--PROCEDIMEINTOS ALMACENADOS "ACTUALIZAR"
+	create proc usp_u_producto
+	@codigo char (3),	
+	@descripcion varchar (50),
+	@id_producto int
+	as
+	update producto set
+	codigo = @codigo,
+	descripcion = @descripcion
+	where id_producto = @id_producto
+--PROCEDIMEINTOS ALMACENADOS "ELIIMINAR"
+	create proc usp_d_producto
+	@id_producto int
+	as
+	delete from producto
+	where id_producto = @id_producto

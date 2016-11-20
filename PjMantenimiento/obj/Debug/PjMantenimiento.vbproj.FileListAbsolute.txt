@@ -1,0 +1,14 @@
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\bin\Debug\PjMantenimiento.exe.config
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\bin\Debug\PjMantenimiento.exe
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\bin\Debug\PjMantenimiento.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\bin\Debug\PjMantenimiento.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\bin\Debug\ABDMantenimiento.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\bin\Debug\ABDMantenimiento.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\bin\Debug\ABDMantenimiento.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\obj\Debug\PjMantenimiento.vbprojResolveAssemblyReference.cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\obj\Debug\PjMantenimiento.FrmProducto.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\obj\Debug\PjMantenimiento.Resources.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\obj\Debug\PjMantenimiento.vbproj.GenerateResource.Cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\obj\Debug\PjMantenimiento.exe
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\obj\Debug\PjMantenimiento.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolMantenimiento\PjMantenimiento\obj\Debug\PjMantenimiento.pdb
